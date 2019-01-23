@@ -44,7 +44,8 @@ All dates will be formatted to comply with [ISO 8601](https://en.wikipedia.org/w
      * Comments/Facts
   
  #### Example JSON   
- `{
+ ```
+ {
 	"2019-01-23": {
 		"Artist": "khruangbin",
 		"Spotify": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk?si=Et3EKrg8SSK8Gio57HLhxA"
@@ -58,7 +59,8 @@ All dates will be formatted to comply with [ISO 8601](https://en.wikipedia.org/w
 		"Spotify": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx?si=XD9EgIVmSxuRRNrgK7FimA",
 		"Comment": "Colter is only 23, but has the sound of Johnny Cash meets Bob Dylan."
 	}
-}`
+}
+```
 
 ## Contact
 
