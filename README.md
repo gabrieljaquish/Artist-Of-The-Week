@@ -1,5 +1,8 @@
 # Artist Of The Week
 
+### Who Are You Listening To?
+Checkout this week's [Spotify Playlist](https://open.spotify.com/user/gabejaquish/playlist/7lbtghXSJ6oatTVQyTBLOs?si=GOixKmkTQP-aGsyxeMKXWQ)
+
 ### History
 Between 2005 and 2011 I ran a mobile DJ business, providing music, lighting, and announcments for Weddings, Retirements, Birthdays, county fairs, and all other manner of gathering. When you spend your weekends spinning (generally) the same hits over and over you tend to spend your weekdays searching for somthing different. Because lets be honest, your wedding playlist isn't that original, most of it is probably songs from on [Mobile Beat's Top 200 list](https://www.mobilebeat.com/top-200/), and that is totally fine. People love to dance to music they can sing along with.
 
