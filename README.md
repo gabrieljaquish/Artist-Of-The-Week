@@ -44,7 +44,7 @@ All dates will be formatted to comply with [ISO 8601](https://en.wikipedia.org/w
      * Comments/Facts
   
  #### Example JSON   
- ```
+ ```json
  {
 	"2019-01-23": {
 		"Artist": "khruangbin",
