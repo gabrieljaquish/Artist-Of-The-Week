@@ -1,15 +1,102 @@
 {
-	"2019-01-23": {
-		"Artist": "khruangbin",
-		"Spotify": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk?si=Et3EKrg8SSK8Gio57HLhxA"
-	},
-	"2019-01-16": {
-		"Artist": "The Marcus King Band",
-		"Spotify": "https://open.spotify.com/artist/0tgaHqkU1p7QhBUIzKXVU9?si=9ps-yPFyTWyfG079oVKvcg"
-	},
-	"2019-01-09": {
-		"Artist": "Colter Wall",
-		"Spotify": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx?si=XD9EgIVmSxuRRNrgK7FimA",
-		"Comment": "Colter is only 23, but has the sound of Johnny Cash meets Bob Dylan."
-	}
+    "2019-01-30T00:00:00": {
+        "Artist": "The Smiths",
+        "Spotify": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8?si=fWlhUYxjQFiz1P289EV8ow",
+        "Comment": "Because The Smiths never get old.",
+        "Favorite Studio Album": "The Queen Is Dead (Deluxe Edition)",
+        "Favorite Studio Song": {
+            "Title": "How Soon Is Now?",
+            "Album": "Meat Is Murder",
+            "Released": "1985-02-11",
+            "Comment": "Originally released on the B-side of the single \"William, It Was Really Nothing\", it was later added to the track list of \"Meat is Murder\". The tremelo sound was painstakingly captured using Analog Fender amplifiers, whos phase was very difficut to control and had to be stitched together in post."
+        },
+        "Favorite Live Song": {
+            "Title": "",
+            "Performance": "",
+            "URL": ""
+        },
+        "Favorite Video": {
+            "Title": "",
+            "URL": ""
+        }
+    },
+    "2019-01-23T00:00:00": {
+        "Artist": "khruangbin",
+        "Spotify": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk?si=Et3EKrg8SSK8Gio57HLhxA",
+        "Comment": "Far East Surf Rock, Very Chill and easy to listen to. Despite only having 2 full length albums, I didn't get bored.",
+        "Favorite Studio Album": "Con Todo El Mundo",
+        "Favorite Studio Song": {
+            "Title": "Maria También",
+            "Album": "Con Todo El Mundo"
+        },
+        "Favorite Live Song": {
+            "Title": "Evan Finds the Third Room",
+            "Performance": "Khruangbin @ Villain | Pitchfork Live",
+            "URL": "https://www.youtube.com/watch?v=q4xKvHANqjk&t=2557s"
+        },
+        "Favorite Video": {
+            "Title": "Khruangbin @ Villain | Pitchfork Live",
+            "URL": "https://www.youtube.com/watch?v=q4xKvHANqjk",
+            "Comment": "I love this live performance, I personally think it outshines their albums by a wide margin and the Projections from Drippy Eye are amazing on top of it all."
+        }
+    },
+    "2019-01-16T00:00:00": {
+        "Artist": "The Marcus King Band",
+        "Spotify": "https://open.spotify.com/artist/0tgaHqkU1p7QhBUIzKXVU9?si=9ps-yPFyTWyfG079oVKvcg",
+        "Comment": "",
+        "Favorite Studio Album": "",
+        "Favorite Studio Song": {
+            "Title": "",
+            "Album": ""
+        },
+        "Favorite Live Song": {
+            "Title": "",
+            "Performance": "",
+            "URL": ""
+        },
+        "Favorite Video": {
+            "Title": "",
+            "URL": ""
+        }
+    },
+    "2019-01-09T00:00:00": {
+        "Artist": "Colter Wall",
+        "Spotify": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx?si=XD9EgIVmSxuRRNrgK7FimA",
+        "Comment": "Colter is only 23, but has the sound of Johnny Cash meets Bob Dylan. I'm excited to see whats next.",
+        "Favorite Studio Album": "Colter Wall",
+        "Favorite Studio Song": {
+            "Title": "Kate McCannon",
+            "Album": "Colter Wall"
+        },
+        "Favorite Live Song": {
+            "Title": "Brewery Sessions - Colter Wall - The Devil Wears a Suit and Tie",
+            "Performance": "Brewery Sessions @Original 16 Brewery",
+            "URL": "https://www.youtube.com/watch?v=4l4gdhPqh3E",
+            "Comment": "The One-Man-Band style of his raw accoustic guitar sound with the kick drum adds alot to the usual empty sonic space of his solo performances."
+        },
+        "Favorite Video": {
+            "Title": "Colter Wall - Full Session - 5/16/2017 - Paste Studios - New York, NY",
+            "URL": "https://youtu.be/ddrO3EkQrpY",
+            "Comment": "A solo performance with quick interview questions mixed in"
+        }
+    },
+    "2019-01-02T00:00:00": {
+        "Artist": "",
+        "Spotify": "",
+        "Comment": "",
+        "Favorite Studio Album": "",
+        "Favorite Studio Song": {
+            "Title": "",
+            "Album": ""
+        },
+        "Favorite Live Song": {
+            "Title": "",
+            "Performance": "",
+            "URL": ""
+        },
+        "Favorite Video": {
+            "Title": "",
+            "URL": ""
+        }
+    }
 }
