@@ -1,4 +1,25 @@
 {
+    "2019-05-08T00:00:00": {
+        "Artist": "TOOL",
+        "Spotify": "N/A",
+        "Comment": "90s ",
+        "Favorite Studio Album": "Ænima",
+        "Favorite Studio Song": {
+            "Title": "The Pot",
+            "Album": "10,000 Days",
+            "Released": "2006",
+            "Comment": ""
+        },
+        "Favorite Live Song": {
+            "Title": "",
+            "Performance": "",
+            "URL": ""
+        },
+        "Favorite Video": {
+            "Title": "The Pot (Unoffical)",
+            "URL": "https://www.youtube.com/watch?v=R2F_hGwD26g"
+        }
+    },
     "2019-01-30T00:00:00": {
         "Artist": "Shakey Graves",
         "Spotify": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH?si=RpHmvaGAQuu3i-qveJx25w",
