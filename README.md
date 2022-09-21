@@ -21,7 +21,9 @@ Maybe someone else will find this idea interesting, or maybe I'll just be able t
 ### The Rules Of Engagement
 1. "Artist Weeks" Begin on Wednesday and run to the following Tuesday. Wednesday morning begins a new Artist Week
 1. The Artist Week should begin by listening to all recorded albums (live or studio) in cronological order, as released (not nessicarily recorded)
-1. 
+1. Once all albums have been listened to, you can listen to anything in the artist's catalog, collaborations, or songs they are featured on from other artists.
+1. Weekends are free. Listen to whatever you want.
+
 
 ### How Are You Going To Record it?
 Good Question, and I don't have a good answer. 
