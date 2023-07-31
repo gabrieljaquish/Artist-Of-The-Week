@@ -46,7 +46,7 @@
 - 20230705, NONE - 4th of July Week Off
 - 20230712, Billy Strings
 - 20230719, Jeff Tweedy
-- 20230726, 
+- 20230726, Shakey Graves
 - 20230802, 
 - 20230809, 
 - 20230816, 
