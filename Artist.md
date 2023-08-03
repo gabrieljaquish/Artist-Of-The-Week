@@ -47,7 +47,7 @@
 - 20230712, Billy Strings
 - 20230719, Jeff Tweedy
 - 20230726, Shakey Graves
-- 20230802, 
+- 20230802, Arcade Fire
 - 20230809, 
 - 20230816, 
 - 20230823, 
