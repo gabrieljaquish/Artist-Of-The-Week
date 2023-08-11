@@ -48,7 +48,7 @@
 - 20230719, Jeff Tweedy
 - 20230726, Shakey Graves
 - 20230802, Arcade Fire
-- 20230809, 
+- 20230809, Kendrick Lamar
 - 20230816, 
 - 20230823, 
 - 20230830, 
