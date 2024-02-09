@@ -49,7 +49,7 @@
 - 20230726, Shakey Graves
 - 20230802, Arcade Fire
 - 20230809, Kendrick Lamar
-- 20230816, 
+- 20230816, NONE: [Green Mountain Bluegrass & Roots Festival, Manchester, VT](https://www.greenmountainbluegrass.com/)
 - 20230823, 
 - 20230830, 
 - 20230906, 
@@ -67,7 +67,60 @@
 - 20231129, 
 - 20231206, 
 - 20231213, 
-- 20231230,
-- 20231227,
+- 20231230, NONE - Christmas Music 
+- 20231227, NONE - Christmas Music
 
 ## 2024
+- 20240103 - [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg?si=VPZE6xZGRmG56ku7_bvXpg)
+- 20240110 - [The Wood Brothers](https://open.spotify.com/artist/6FxuPrpa8phaP3Xn73emhT?si=oFnw_UakSPyoYAFl-gHWFg)
+- 20240117 - Neil Young via [Neil Young Archives](https://neilyoungarchives.com/)
+- 20240124 - Neil Yonng & Crazy Horse via [Neil Young Archives](https://neilyoungarchives.com/)
+- 20240131 - [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP?si=dewwBOl0RR2NjfjGUzWQqw)
+- 20240207 - [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ?si=jWKbjMdSSd-6q0PM_n8w7A)
+- 20240214 - MF DOOM, aka DOOM, aka Danger DOOM, aka Madvillain
+- 20240421 -
+- 20240228 -
+- 20240306 -
+- 20240313 -
+- 20240320 -
+- 20240327 -
+- 20240403 -
+- 20240410 -
+- 20240417 -
+- 20240424 -
+- 20240501 -
+- 20240508 -
+- 20240515 -
+- 20240522 -
+- 20240529 -
+- 20240605 -
+- 20240612 -
+- 20240619 -
+- 20240626 -
+- 20240703 -
+- 20240710 -
+- 20240717 -
+- 20240724 -
+- 20240732 -
+- 20240731 -
+- 20240807 - 
+- 20240814 - NONE: [Green Mountain Bluegrass & Roots Festival, Manchester, VT](https://www.greenmountainbluegrass.com/)
+- 20240821 -
+- 20240828 -
+- 20240904 -
+- 20240911 -
+- 20240918 -
+- 20240925 -
+- 20241002 -
+- 20241009 -
+- 20241016 -
+- 20241023 -
+- 20241030 -
+- 20241106 -
+- 20241113 -
+- 20241120 -
+- 20241127 -
+- 20241204 -
+- 20241211 -
+- 20241218 - NONE: Christmas Music
+- 20241225 - NONE: Christmas Music
